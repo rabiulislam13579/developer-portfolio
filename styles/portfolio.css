@@ -100,3 +100,44 @@ line-height: 48px;
     border: 2px solid white;
     box-shadow: 5px 5px 5px gray;
 }
+.resume{
+    margin-top: 130px;
+    margin-bottom: 110px;
+}
+.both{
+    display: flex;
+    gap: 20px;
+    position: absolute;
+}
+.heading{
+    width: 230px;
+height: 41px;
+font-weight: 700;
+font-size: 30px;
+line-height: 41px;
+color: #474747;
+margin-bottom: 30px;
+margin-top: 50px;
+}
+.d-name{
+    font-weight: 700;
+font-size: 25px;
+line-height: 34px;
+color: #474747;
+margin-bottom: 10px;
+}
+.u-name{
+    font-weight: 600;
+font-size: 20px;
+line-height: 27px;
+color: #757575;
+margin-bottom: 20px;
+}
+.details{ width: 400px;
+    font-weight: 400;
+font-size: 16px;
+line-height: 28px;
+color: #757575;
+margin-bottom: 30px;
+border-bottom: 1px solid #D1D1D1;
+}
