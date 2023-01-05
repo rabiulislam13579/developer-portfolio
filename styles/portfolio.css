@@ -141,3 +141,36 @@ color: #757575;
 margin-bottom: 30px;
 border-bottom: 1px solid #D1D1D1;
 }
+.finish-btn{ margin-top: 800px;
+    background-color:#FD6E0A ;
+    border: 0px;
+    padding: 18px 35px;
+    border-radius: 5px;
+    color: #FFFFFF;
+    margin-left: 339px;
+
+}
+.contact{
+    width: 100%;
+    background-color: #FFF8F3;
+}
+.common{
+    display: flex;
+    gap: 20px;
+}
+.f-connect{
+    font-weight: 700;
+font-size: 35px;
+color: #181818;
+margin-bottom: 20px;
+}
+.g-connect{
+    font-weight: 400;
+font-size: 16px;
+color: #474747;
+margin-bottom: 30px;
+}
+.text{
+    margin-bottom: 10px;
+    border: none;
+}
