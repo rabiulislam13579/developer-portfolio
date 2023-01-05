@@ -38,6 +38,13 @@ nav li{
     border-radius: 5px;
     color: #FFFFFF;
 }
+.con{
+    width: 130px;
+height: 49.46px;
+   color:#FD6E0A ;
+   border: 1px solid #FD6E0A; 
+   border-radius: 2px;
+}
 .banner{
     display: flex;
     margin:0 180px;
