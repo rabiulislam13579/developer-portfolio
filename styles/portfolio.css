@@ -90,3 +90,13 @@ line-height: 48px;
 .info{
     color: #757575;
 }
+.skill-container{
+    display: flex;
+}
+.skill{
+    margin: 10px;
+    background-color: white;
+    padding: 10px;
+    border: 2px solid white;
+    box-shadow: 5px 5px 5px gray;
+}
